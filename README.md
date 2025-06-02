@@ -12,8 +12,11 @@ Desarrollar un modelo de Aprendizaje Automático que permita analizar y predecir
 Objetivos Específicos:
 
 •	Comparar distintos modelos de regresión para encontrar la mejor predicción del diagnóstico tardío.
+
 •	Identificar patrones o grupos de riesgo dentro de la población de Tierra del Fuego que presenten una mayor probabilidad de contraer VIH o de ser diagnosticados tardíamente.
+
 •	Identificar patrones y predecir la tasa de VIH o el diagnóstico tardío en la provincia de Tierra del Fuego para años futuros o bajo ciertas condiciones demográficas.
+
 •	Visualizar los resultados y validar la capacidad predictiva del modelo.
 
 Contexto del Problema: 
